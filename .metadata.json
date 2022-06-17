@@ -1,0 +1,10 @@
+[
+  {
+    "package": "CARBayes",
+    "oncran": true
+  },
+  {
+    "package": "CARBayesST",
+    "oncran": true
+  }
+]
