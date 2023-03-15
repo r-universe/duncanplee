@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "CARBayes"]
-	path = CARBayes
-	url = https://github.com/duncanplee/carbayes
-	shallow = true
-	registered = true
 [submodule "CARBayesST"]
 	path = CARBayesST
 	url = https://github.com/duncanplee/carbayesst
+	shallow = true
+	registered = true
+[submodule "CARBayes"]
+	path = CARBayes
+	url = https://github.com/duncanplee/carbayes
 	shallow = true
 	registered = true
