@@ -8,6 +8,11 @@
 	url = https://github.com/duncanplee/carbayes
 	shallow = true
 	registered = true
+[submodule "CARBayesdata"]
+	path = CARBayesdata
+	url = https://github.com/cran/CARBayesdata
+	shallow = true
+	registered = true
 [submodule "CARBayesST"]
 	path = CARBayesST
 	url = https://github.com/duncanplee/carbayesst
