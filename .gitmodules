@@ -5,9 +5,9 @@
 [submodule "CARBayes"]
 	path = CARBayes
 	url = https://github.com/duncanplee/carbayes
-[submodule "CARBayesdata"]
-	path = CARBayesdata
-	url = https://github.com/cran/CARBayesdata
 [submodule "CARBayesST"]
 	path = CARBayesST
 	url = https://github.com/duncanplee/carbayesst
+[submodule "CARBayesdata"]
+	path = CARBayesdata
+	url = https://github.com/cran/CARBayesdata
